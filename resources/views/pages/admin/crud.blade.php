@@ -33,7 +33,7 @@
                                     @include('pages.admin.posts.delete.index')
                                     @empty
                                     <div class="alert alert-danger">
-                                        Data Post belum Tersedia.
+                                        Data Mahasiswa belum Ada.
                                     </div>
                                     @endforelse
                                 </tbody>
